@@ -11,6 +11,17 @@
 }
 .box_2 {
 }
+._分类按纽 {
+  font-family:'ArialMT', 'Arial';
+  font-weight:bold;
+  font-style:normal;
+  font-size:18px;
+  text-align:left;
+}
+.label {
+  font-size:14px;
+  text-align:left;
+}
 ._形状 {
   font-family:'ArialMT', 'Arial';
   font-weight:400;
@@ -30,6 +41,9 @@
   line-height:normal;
 }
 .line {
+}
+._文本段落 {
+  text-align:left;
 }
 ._四级标题 {
   font-family:'ArialMT', 'Arial';
@@ -170,7 +184,7 @@
   font-size:13px;
   color:#000000;
 }
-._文本段落 {
+._文本段落1 {
   font-size:13px;
   color:#000000;
   text-align:left;
@@ -256,11 +270,6 @@
   color:#1BBC9C;
   text-align:center;
 }
-._分类按纽 {
-  font-size:16px;
-  text-align:left;
-  line-height:26px;
-}
 ._默认样式2 {
 }
 .button {
@@ -274,7 +283,7 @@
 .radio_button {
   text-align:left;
 }
-._文本段落1 {
+._文本段落2 {
   text-align:left;
 }
 ._复选框1 {
@@ -339,11 +348,7 @@
   font-size:32px;
   text-align:left;
 }
-.label {
-  font-size:14px;
-  text-align:left;
-}
-._文本段落2 {
+._文本段落3 {
   text-align:left;
 }
 .text_field {
