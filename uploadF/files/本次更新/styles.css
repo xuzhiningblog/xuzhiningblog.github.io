@@ -4,7 +4,7 @@ body {
   background-image:none;
   position:relative;
   left:-17px;
-  width:367px;
+  width:626px;
   margin-left:auto;
   margin-right:auto;
   text-align:left;
@@ -65,11 +65,76 @@ body {
   top:40px;
   width:10px;
   height:6px;
-  font-family:'MicrosoftYaHei', 'Microsoft YaHei';
+  font-family:'Microsoft YaHei';
   font-weight:400;
   font-style:normal;
 }
 #u4 {
+  border-width:0px;
+  position:absolute;
+  left:2px;
+  top:-5px;
+  width:6px;
+  visibility:hidden;
+  word-wrap:break-word;
+}
+#u5 {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:0px;
+  height:0px;
+}
+#u6_img {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:626px;
+  height:32px;
+}
+#u6 {
+  border-width:0px;
+  position:absolute;
+  left:17px;
+  top:62px;
+  width:626px;
+  height:32px;
+  font-family:'PingFangSC-Regular', 'PingFang SC';
+  font-weight:400;
+  font-style:normal;
+  color:#FFFFFF;
+  line-height:18px;
+}
+#u7 {
+  border-width:0px;
+  position:absolute;
+  left:8px;
+  top:7px;
+  width:610px;
+  white-space:nowrap;
+}
+#u8_img {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:10px;
+  height:6px;
+}
+#u8 {
+  border-width:0px;
+  position:absolute;
+  left:310px;
+  top:92px;
+  width:10px;
+  height:6px;
+  font-family:'Microsoft YaHei';
+  font-weight:400;
+  font-style:normal;
+}
+#u9 {
   border-width:0px;
   position:absolute;
   left:2px;

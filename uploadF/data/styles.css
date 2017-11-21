@@ -11,6 +11,8 @@
 }
 .box_2 {
 }
+.ellipse {
+}
 .image {
 }
 .button {
@@ -83,6 +85,10 @@
 }
 .horizontal_line {
 }
+.box_1 {
+}
+._分割线 {
+}
 .paragraph1 {
   text-align:left;
 }
@@ -93,6 +99,20 @@
   font-weight:400;
   font-style:normal;
   font-size:18px;
+  text-align:left;
+}
+._34号字_单行列表内，左方主标题文字字） {
+  font-family:'PingFangSC-Regular', 'PingFang SC';
+  font-weight:400;
+  font-style:normal;
+  font-size:17px;
+  text-align:left;
+}
+._32号字_单行列表内，右方操作说明的文字__） {
+  font-family:'PingFangSC-Regular', 'PingFang SC';
+  font-weight:400;
+  font-style:normal;
+  font-size:16px;
   text-align:left;
 }
 ._30号字_服务主标题，例如双行列表内的下方描述信息。__） {
@@ -115,6 +135,13 @@
   font-size:14px;
   text-align:left;
 }
+._24号字_最小说明文本，例如列表时间态、版权信息等） {
+  font-family:'PingFangSC-Regular', 'PingFang SC';
+  font-weight:400;
+  font-style:normal;
+  font-size:12px;
+  text-align:left;
+}
 ._一级标题 {
   font-family:'Arial-BoldMT', 'Arial Bold', 'Arial';
   font-weight:700;
@@ -126,6 +153,8 @@
   color:#000000;
 }
 ._形状2 {
+}
+.icon {
 }
 ._四级标题 {
   font-family:'ArialMT', 'Arial';
@@ -172,7 +201,7 @@
   color:#FFFFFF;
   text-align:center;
 }
-.box_1 {
+.box_11 {
 }
 ._自定义_三级菜单 {
   font-family:'ArialMT', 'Arial';
@@ -402,10 +431,6 @@
 ._水平线3 {
 }
 .box_31 {
-}
-.icon {
-}
-.ellipse {
 }
 .placeholder {
 }
