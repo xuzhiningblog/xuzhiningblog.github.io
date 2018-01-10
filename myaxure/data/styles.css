@@ -9,33 +9,7 @@
 }
 ._默认样式 {
 }
-.box_1 {
-}
 .box_2 {
-}
-.label {
-  font-size:14px;
-  text-align:left;
-}
-.ellipse {
-}
-.line {
-}
-.icon {
-}
-._文本框 {
-  color:#000000;
-  text-align:left;
-}
-.primary_button {
-  color:#FFFFFF;
-}
-._二级标题 {
-  font-family:'ArialMT', 'Arial';
-  font-weight:bold;
-  font-style:normal;
-  font-size:24px;
-  text-align:left;
 }
 ._分类按纽 {
   font-family:'ArialMT', 'Arial';
@@ -53,39 +27,21 @@
   text-align:center;
   line-height:normal;
 }
-._图片 {
-}
-._形状1 {
-}
-._图片1 {
-  color:#000000;
-}
-.text_field {
-  color:#000000;
-  text-align:left;
-}
-._形状2 {
-  font-family:'ArialMT', 'Arial';
-  font-weight:400;
-  font-style:normal;
-  font-size:13px;
-  color:#333333;
-  text-align:center;
-  line-height:normal;
-}
-.heading_3 {
-  font-family:'ArialMT', 'Arial';
-  font-weight:bold;
-  font-style:normal;
-  font-size:18px;
-  text-align:left;
-}
 ._文本段落 {
   text-align:left;
 }
-._鼠标悬停文本链接时 {
+._一级标题 {
+  font-family:'Arial-BoldMT', 'Arial Bold', 'Arial';
+  font-weight:700;
+  font-style:normal;
+  font-size:32px;
+  text-align:left;
 }
-._鼠标按下文本链接时 {
+._形状1 {
+}
+._水平线 {
+}
+._垂直线 {
 }
 ._四级标题 {
   font-family:'ArialMT', 'Arial';
@@ -110,6 +66,10 @@
 ._文本链接 {
   color:#0000FF;
 }
+._鼠标悬停文本链接时 {
+}
+._鼠标按下文本链接时 {
+}
 ._流程形状 {
 }
 .new_style {
@@ -128,7 +88,7 @@
   color:#FFFFFF;
   text-align:center;
 }
-.box_11 {
+.box_1 {
 }
 ._自定义_三级菜单 {
   font-family:'ArialMT', 'Arial';
@@ -146,7 +106,7 @@
   color:#3BB19C;
   text-align:left;
 }
-._水平线 {
+._水平线1 {
   color:#333333;
 }
 .primary-button {
@@ -158,7 +118,7 @@
   text-align:center;
   line-height:16px;
 }
-._垂直线 {
+._垂直线1 {
 }
 ._自定义_蓝1 {
   font-size:14px;
@@ -208,10 +168,17 @@
   color:#3BB19C;
   text-align:left;
 }
+._二级标题 {
+  font-family:'ArialMT', 'Arial';
+  font-weight:bold;
+  font-style:normal;
+  font-size:24px;
+  text-align:left;
+}
 ._连接线 {
   color:#333333;
 }
-._形状3 {
+._形状2 {
   font-size:13px;
   color:#000000;
 }
@@ -220,7 +187,7 @@
   color:#000000;
   text-align:left;
 }
-._文本框1 {
+._文本框 {
   font-size:13px;
   color:#000000;
   text-align:left;
@@ -259,7 +226,7 @@
   color:#FFFFFF;
   text-align:center;
 }
-._形状4 {
+._形状3 {
 }
 .basicbutton-outline {
   font-family:'Roboto';
@@ -269,12 +236,19 @@
   color:#1BBC9C;
   text-align:center;
 }
-._水平线1 {
-}
 ._水平线2 {
+}
+._水平线3 {
+}
+._文本框1 {
+  color:#000000;
+  text-align:left;
 }
 .html_button {
   text-align:center;
+}
+._图片 {
+  color:#000000;
 }
 ._默认样式1 {
 }
@@ -298,10 +272,16 @@
 }
 .button {
 }
+.primary_button {
+  color:#FFFFFF;
+}
 .checkbox {
   text-align:left;
 }
 .radio_button {
+  text-align:left;
+}
+._文本段落2 {
   text-align:left;
 }
 ._复选框1 {
@@ -343,9 +323,13 @@
 .image {
   color:#000000;
 }
-._水平线3 {
+._水平线4 {
 }
 .box_3 {
+}
+.icon {
+}
+.ellipse {
 }
 .image1 {
 }
@@ -355,17 +339,27 @@
   color:#000000;
   text-align:left;
 }
-._一级标题 {
+._一级标题1 {
   font-family:'ArialMT', 'Arial';
   font-weight:bold;
   font-style:normal;
   font-size:32px;
   text-align:left;
 }
-._文本段落2 {
+.label {
+  font-size:14px;
+  text-align:left;
+}
+._文本段落3 {
+  text-align:left;
+}
+.text_field {
+  color:#000000;
   text-align:left;
 }
 .snapshot {
+}
+.line {
 }
 .table_cell {
 }
